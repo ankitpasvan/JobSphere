@@ -1,0 +1,38 @@
+# --- Dependencies ---
+node_modules/
+**/node_modules/
+
+# --- Environment Variables ---
+.env
+.env.*
+!.env.example
+
+# --- Build Output ---
+dist/
+build/
+**/dist/
+**/build/
+
+# --- OS Files ---
+.DS_Store
+**/.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.suo
+*.sw?
+
+# --- Uploads / Runtime Data ---
+uploads/
+tmp/
+
+# --- Vite Cache ---
+.vite/
+**/.vite/
