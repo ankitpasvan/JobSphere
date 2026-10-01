@@ -1,4 +1,4 @@
-# TalentBridge Pro
+# JobSphere
 
 A MERN stack job portal web application with role-based authentication for candidates and recruiters.
 
